@@ -1,0 +1,1 @@
+[{"login":"1web","password":"$2y$10$oIIBiA.q4dULzUnpFc98xOh.jBPBzUN6LUQZePFJiztEPCN333KTq","access":"9"},{"login":"guest","password":"$2y$10$kbHbIpo2ECJQqWPzMOdiQOuoKjoMOdX7pW4YeAJETSqyUVDSX7wq6","access":"1"}]

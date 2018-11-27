@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<scripts>
+		<file>assets/plugins/jquery/jquery-3.2.0.min.js</file>
+		<file>assets/plugins/bootstrap/js/popper.min.js</file>
+		<file>assets/plugins/bootstrap/js/bootstrap.min.js</file>
+		<file>assets/plugins/validation/jquery.validate.min.js</file>
+		<file>assets/plugins/trumbowyg/trumbowyg.min.js</file>
+		<file>assets/plugins/iconselect/iconselect.js</file>
+		<file>assets/plugins/iconselect/iscroll.js</file>
+		<file>assets/plugins/date/moment.js</file>
+		<file>assets/plugins/date/date.js</file>
+		<file>assets/js/script.js</file>
+	</scripts>
+	
+	<stylesheets>
+		<file>assets/plugins/bootstrap/css/bootstrap.min.css</file>
+		<file>assets/plugins/trumbowyg/ui/trumbowyg.min.css</file>
+		<file>assets/plugins/iconselect/iconselect.css</file>
+		<file>assets/plugins/date/date.css</file>
+		<file>assets/css/style.css</file>
+	</stylesheets>
+</include>

@@ -1,0 +1,1 @@
+# template-with-admin-panel

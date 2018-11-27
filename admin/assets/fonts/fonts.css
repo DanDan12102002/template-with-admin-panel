@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Exo';
+  src: url('Exo/Exo2-Regular.eot?#iefix') format('embedded-opentype'),  url('Exo/Exo2-Regular.woff') format('woff'), url('Exo/Exo2-Regular.ttf')  format('truetype'), url('Exo/Exo2-Regular.svg#Exo2-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Exo';
+  src: url('Exo/Exo2-Bold.eot?#iefix') format('embedded-opentype'),  url('Exo/Exo2-Bold.woff') format('woff'), url('Exo/Exo2-Bold.ttf')  format('truetype'), url('Exo/Exo2-Bold.svg#Exo2-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lobster';
+  src: url('Lobster/Lobster-Regular.eot?#iefix') format('embedded-opentype'),  url('Lobster/Lobster-Regular.woff') format('woff'), url('Lobster/Lobster-Regular.ttf')  format('truetype'), url('Lobster/Lobster-Regular.svg#Lobster-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}

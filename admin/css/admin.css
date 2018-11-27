@@ -1,0 +1,26 @@
+.admin-panel .mainbody {
+    padding: 53px 0;
+    min-height: 100vh;
+}
+.admin-panel .fields-list {
+	font-size: 0.875em;
+}
+.admin-panel .card-body .form-control,
+.admin-panel .fields-list button,
+.admin-panel .fields-list .dropdown-menu {
+	font-size: 1em;
+}
+.admin-panel .trumbowyg-box, .admin-panel .trumbowyg-editor {
+	min-height: 200px;
+	margin: 0px auto;
+}
+.admin-panel .trumbowyg-editor, .admin-panel .trumbowyg-textarea {
+	min-height: 200px;
+	padding: 10px;
+}
+
+@media( max-width: 767px ) {
+	html {
+		font-size: 13px;
+	}
+}

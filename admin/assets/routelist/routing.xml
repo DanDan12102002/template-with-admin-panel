@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<system>
+		<route match="index" controller="index" action="index" />
+		<route match="forbidden" controller="error" action="403" />
+		<route match="not_found" controller="error" action="404" />
+	</system>
+	<routes>
+		<route match="reservation" controller="Template" action="reservation" />
+		<route match="about" controller="Template" action="about" />
+		<route match="menu" controller="Template" action="menu" />
+		<route match="blog-content" controller="Template" action="blog-content" />
+		<route match="blog" controller="Template" action="blog" />
+		<route match="contact" controller="Template" action="contact" />
+	</routes>
+</root>
